@@ -1,0 +1,3 @@
+from yandex_disk.work_yandex_disk import get_information_about_disk, create_folder_in_disk, get_a_list_of_files
+
+get_a_list_of_files()
